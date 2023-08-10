@@ -17,6 +17,7 @@ public class NuxoriaMod
     public static final String MOD_ID = "nuxmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // This is my main class constructor.
     public NuxoriaMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
