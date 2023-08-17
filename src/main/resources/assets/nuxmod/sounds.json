@@ -1,0 +1,7 @@
+{
+  "alien-to-alien-shit": {
+    "category": "block",
+    "subtitle": "nuxmod.subtitle.alien-to-alien-shit",
+    "sounds": ["nuxmod:splat"]
+  }
+}

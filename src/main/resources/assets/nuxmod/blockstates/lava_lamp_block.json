@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": {"model": "nuxmod:block/lava_lamp_block_on"},
+    "lit=false": {"model": "nuxmod:block/lava_lamp_block_off"}
+  }
+}

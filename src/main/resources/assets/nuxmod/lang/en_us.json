@@ -1,0 +1,13 @@
+{
+  "item.nuxmod.zircon": "Zircon",
+  "item.nuxmod.raw_zircon": "Raw Zircon",
+  "block.nuxmod.zircon_block": "Block Of Zircon",
+  "item.nuxmod.alien_shit": "Splat O' Alien Shit",
+  "item.nuxmod.eight_ball": "Eight Ball",
+  "item.nuxmod.hamburger": "Tasty Motherfucker",
+  "block.nuxmod.jumpy_block": "Jumpy Block",
+  "block.nuxmod.lava_lamp_block": "Lava Lamp Block",
+  "block.nuxmod.alien_shit_block": "Alien Shit Block",
+  "block.nuxmod.alien_block": "Alien Block",
+  "itemGroup.nuxtab": "Nux Tab"
+}

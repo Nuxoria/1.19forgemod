@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "nuxmod:block/alien_block"}
+  }
+}
